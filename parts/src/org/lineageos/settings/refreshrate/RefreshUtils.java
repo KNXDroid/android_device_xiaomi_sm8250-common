@@ -44,7 +44,7 @@ public final class RefreshUtils {
     protected static final int STATE_EXTREME = 2;
     protected static final int STATE_LAND = 3;
 
-    private static final float REFRESH_STATE_DEFAULT = 120f;
+    private static final float REFRESH_STATE_DEFAULT = 30f;
     private static final float REFRESH_STATE_STANDARD = 60f;
     private static final float REFRESH_STATE_EXTREME = 120f;
     private static final float REFRESH_STATE_LAND = 60f;
